@@ -7,6 +7,12 @@ I am passionate about solopreneurship, and you can say there is FIRE in me (pun 
 * 2+ years of experience bridging technical execution with empathy-driven leadership to resolve bottlenecks, align teams, and enhance delivery pipelines.
 * Successfully managed distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 
+### Topics I am passionnate about
+* Layered design in application architecture and modular monoliths
+* Patterns of application architecture with AI (modules)
+* DevOps and Platform engineering (things like IaC, Terraform, Ansible, Pulumi, Docker, and Kubernetes)
+* Cybersecurity
+
 ### Programming Languages
 <div style="display: inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" width="50"/>
@@ -51,21 +57,12 @@ I am passionate about solopreneurship, and you can say there is FIRE in me (pun 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50"/>
-</div>
-
-### Interested in
-<div style="display: inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original-wordmark.svg" width="50"/> 
 </div>
-
-### Interests
-* Layered design in application architecture and modular monoliths
-* Patterns of application architecture with AI (modules)
-* DevOps and Platform engineering (things like IaC, Terraform, Ansible, Pulumi, Docker, and Kubernetes)
-* Cybersecurity
-
+<br/>
+<br/>
 <sub>Keywords:
 MacOS, Linux, Windows, Ruby, Ruby on Rails, PostgreSQL, SQLite, JavaScript, StimulusJS, AlpineJS, VueJS, EmberJS, RubyMine, VSCode, Vim, Zellij + Alacrity, Heroku, Google Cloud, AWS, Docker, Linear, Jira, Trello, Perplexity.ai, Github Copilot, Groq, Ollama</sub>
