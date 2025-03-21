@@ -1,34 +1,71 @@
-### Experience
-My work experience spans almost two decades in different industries, half of which is in software engineering and product development.
+## About
+I like architecting Ruby on Rails applications, cybersecurity and compliance, and well-written code.  
+I am passionate about solopreneurship, and you can say there is FIRE in me (pun intended).  
 
-### Skills
-From my leadership positions, I was described as energetic and positive, with good people and storytelling skills.
+### Technical Engineering Leader Summary
+* Over 10 years of experience specializing in software engineering, application architecture, well-written code, backend and full-stack development.
+* 2+ years of experience bridging technical execution with empathy-driven leadership to resolve bottlenecks, align teams, and enhance delivery pipelines.
+* Successfully managed distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 
-In my engineering positions, I have won mentions for being pragmatic, dedicated, thorough, and meticulous (when it comes to debugging and refactoring code).
+### Programming Languages
+<div style="display: inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+</div>
 
-### What I do
-In truth, I am a simple person looking for simple solutions to complex problems.
+### Frameworks
+<div style="display: inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ember/ember-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original-wordmark.svg" width="50"/>
+</div>
 
-I enjoy debugging, application architecture, and leading teams!
-Also, I enjoy connecting with all stakeholders and being present in every part of the product development lifecycle.
+### Dev. Tools
+<div style="display: inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubymine/rubymine-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rspec/rspec-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width="50"/>
+</div>
 
-And, I am just starting to contribute to open source!
+### Actively Exploring
+<div style="display: inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elixir/elixir-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50"/>
+</div>
 
-### Tools
-I work with:
-* Ruby
-* Rails
-* PostgreSQL (but any RDB will do)
-* JavaScript (preferring vanilla, VueJS, or EmberJS)
-* RubyMine, VS Code, Vim, tmux
-* MacOS, Linux
-* Heroku (I can do Docker and Kamal if you make me)
-* Jira, Trello, and many other team and project management solutions
-* Perplexity.ai, Groq, Ollama
+### Interested in
+<div style="display: inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pulumi/pulumi-original-wordmark.svg" width="50"/> 
+</div>
 
 ### Interests
-* Layered design in application architecture
+* Layered design in application architecture and modular monoliths
 * Patterns of application architecture with AI (modules)
-* DevOps (especially IaC, Terraform, Ansible, and Kubernetes)
+* DevOps and Platform engineering (things like IaC, Terraform, Ansible, Pulumi, Docker, and Kubernetes)
 * Cybersecurity
-* Solopreneurship (but I can be your Intrapreneur as well)
+
+<sub>Keywords:
+MacOS, Linux, Windows, Ruby, Ruby on Rails, PostgreSQL, SQLite, JavaScript, StimulusJS, AlpineJS, VueJS, EmberJS, RubyMine, VSCode, Vim, Zellij + Alacrity, Heroku, Google Cloud, AWS, Docker, Linear, Jira, Trello, Perplexity.ai, Github Copilot, Groq, Ollama</sub>
