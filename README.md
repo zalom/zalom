@@ -7,7 +7,7 @@ I am passionate about solopreneurship, and you can say there is FIRE in me (pun 
 * 2+ years of experience bridging technical execution with empathy-driven leadership to resolve bottlenecks, align teams, and enhance delivery pipelines.
 * Successfully managed distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 
-### Topics I am passionnate about
+### Topics I am passionate about
 * Layered design in application architecture and modular monoliths
 * Patterns of application architecture with AI (modules)
 * DevOps and Platform engineering (things like IaC, Terraform, Ansible, Pulumi, Docker, and Kubernetes)
