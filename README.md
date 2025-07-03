@@ -13,7 +13,7 @@ I am exploring the potential of augmenting product and technical teams with AI (
 * Layered design in application architecture and modular monoliths
 * Patterns of application architecture with AI (modules)
 * DevOps and Platform engineering (things like IaC, Terraform, Ansible, Pulumi, Docker, and Kubernetes)
-* Cybersecurity
+* Cybersecurity and solving Pentest items
 
 ### Programming Languages
 <div style="display: inline">
