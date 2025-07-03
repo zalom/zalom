@@ -1,7 +1,8 @@
 ## About
 I enjoy architecting Ruby on Rails applications and writing well-written (✍️), easy-to-read (📖) code.  
-I am passionate about solopreneurship, and you could say there's FIRE (🔥) in me (pun intended).  
-I am exploring the potential of augmenting product and technical teams with AI (mind-coding + vibe-coding = 😊)!
+My passion is solopreneurship, and you could say there's FIRE (🔥) in me (pun intended).  
+Bringing mind-coding (🧠) to vibe-coding (😎) is my thing! I am all about AI-augmented and not AI-replaced engineers.
+My superpower: I always try to simplify the difficult (read: dumbing down concepts).
 
 ### Technical Engineering Leader Summary
 * Experience in augmenting product teams with AI.
