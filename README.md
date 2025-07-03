@@ -4,7 +4,7 @@ I am passionate about solopreneurship, and you can say there is FIRE in me (pun 
 
 ### Technical Engineering Leader Summary
 * Over 10 years of experience specializing in software engineering, application architecture, well-written code, backend and full-stack development.
-* 2+ years of experience bridging technical execution with empathy-driven leadership to resolve bottlenecks, align teams, and enhance delivery pipelines.
+* 3+ years of experience bridging technical execution with empathy-driven leadership to resolve bottlenecks, align teams, and enhance delivery pipelines.
 * Successfully managed distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 
 ### Topics I am passionate about
