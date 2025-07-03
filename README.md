@@ -4,7 +4,7 @@ My passion is solopreneurship, and you could say there's FIRE (🔥) in me (pun 
 Bringing mind-coding (🧠) to vibe-coding (😎) is my thing! I am all about AI-augmented and not AI-replaced engineers.  
 My superpower: Dumbing down concepts and ideas (Simple is powerful).  
 
-### Technical Engineering Leader Summary
+### Engineering Leader Summary
 * Experience in augmenting product teams with AI.
 * 3+ years of technical leadership experience and successfully managing distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 * Successfully managed distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
