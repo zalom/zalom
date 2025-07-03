@@ -1,13 +1,15 @@
 ## About
-I like architecting Ruby on Rails applications, cybersecurity and compliance, and well-written code.  
-I am passionate about solopreneurship, and you can say there is FIRE in me (pun intended).  
+I enjoy architecting Ruby on Rails applications and writing well-written (✍️), easy-to-read (📖) code.  
+I am passionate about solopreneurship, and you could say there's FIRE (🔥) in me (pun intended).  
+I am exploring the potential of augmenting product and technical teams with AI (mind-coding + vibe-coding = 😊)!
 
 ### Technical Engineering Leader Summary
-* Over 10 years of experience specializing in software engineering, application architecture, well-written code, backend and full-stack development.
-* 3+ years of experience bridging technical execution with empathy-driven leadership to resolve bottlenecks, align teams, and enhance delivery pipelines.
+* Experience in augmenting product teams with AI.
+* 3+ years of technical leadership experience and successfully managing distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 * Successfully managed distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 
 ### Topics I am passionate about
+* Building MVPs for my ideas
 * Layered design in application architecture and modular monoliths
 * Patterns of application architecture with AI (modules)
 * DevOps and Platform engineering (things like IaC, Terraform, Ansible, Pulumi, Docker, and Kubernetes)
@@ -65,4 +67,4 @@ I am passionate about solopreneurship, and you can say there is FIRE in me (pun 
 <br/>
 <br/>
 <sub>Keywords:
-MacOS, Linux, Windows, Ruby, Ruby on Rails, PostgreSQL, SQLite, JavaScript, StimulusJS, AlpineJS, VueJS, EmberJS, RubyMine, VSCode, Vim, Zellij + Alacrity, Heroku, Google Cloud, AWS, Docker, Linear, Jira, Trello, Perplexity.ai, Github Copilot, Groq, Ollama</sub>
+MacOS, Linux, Windows, Ruby, Ruby on Rails, PostgreSQL, SQLite, JavaScript, StimulusJS, AlpineJS, VueJS, EmberJS, RubyMine, VSCode, Vim, Zellij + Alacrity, Heroku, Google Cloud, AWS, Docker, Linear, Jira, Trello, Claude Code, Augment Code, Google Gemini, Perplexity.ai, LibreChat, ChatGPT, Github Copilot, Groq, Ollama</sub>
