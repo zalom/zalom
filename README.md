@@ -6,7 +6,7 @@ My superpower: Dumbing down concepts and ideas (Simple is powerful).
 
 ### Engineering Leader Summary
 * Experience in augmenting product teams with AI.
-* 3+ years of technical leadership experience and successfully managing distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
+* 4+ years of technical leadership experience and successfully managing distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 * Successfully managed distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 
 ### Topics I am passionate about
