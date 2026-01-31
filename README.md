@@ -5,6 +5,7 @@ Bringing mind-coding (🧠) to vibe-coding (😎) is my thing! I am all about AI
 My superpower: Dumbing down concepts and ideas (Simple is powerful).  
 
 ### Engineering Leader Summary
+* Over 10 years of experience in software engineering, architecting applications, and delivering solutions.
 * Experience in augmenting product teams with AI.
 * 4+ years of technical leadership experience and successfully managing distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
 * Successfully managed distributed teams while optimizing Agile/Scrum workflows, overseeing SDLC, and ensuring technical quality assurance with an 85% on-time delivery rate.
