@@ -20,7 +20,7 @@ The following sections describe the open-source projects I work on now.
 
 ### Plastic
 
-<img src="https://raw.githubusercontent.com/zalom/plastic/main/assets/plastic-logo.svg" alt="Plastic" width="240">
+<a href="https://github.com/zalom/plastic"><img src="https://raw.githubusercontent.com/zalom/plastic/main/assets/plastic-logo.svg" alt="Plastic" width="240"></a>
 
 **One command that turns an intent into a durable, linked record of decisions, plans, delivery, and outcomes.**
 
